@@ -6,7 +6,7 @@ import { getItems, createItem, updateItem, deleteItem } from "../services/api";
 
 /**
  * Componente principal que exibe a lista de itens e permite operações de CRUD.
- *
+ *teste
  * @component
  * @param {Object} props - Propriedades do componente.
  * @param {Object} props.route - Objeto de rota contendo parâmetros.
